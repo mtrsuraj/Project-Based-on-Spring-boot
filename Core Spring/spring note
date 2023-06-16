@@ -1,0 +1,14 @@
+Spring core, orm
+controller
+view module
+Exception handling
+intercepter
+request mapping
+post, get, 
+form handling
+...................................................
+Spring core---->Spring Data Integration--->Spring Web--->module.
+Core-Java--->JDBC--->Servlet & JSP--->Important web and database related term.
+
+spring core--->core-->beans-->context-->spEL(spring expression language).
+ 
